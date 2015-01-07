@@ -1,0 +1,9 @@
+c:\users\dvir\documents\visual studio 2013\Projects\CalculatorTip\CalculatorTip\bin\Debug\CalculatorTip.exe.config
+c:\users\dvir\documents\visual studio 2013\Projects\CalculatorTip\CalculatorTip\bin\Debug\CalculatorTip.exe
+c:\users\dvir\documents\visual studio 2013\Projects\CalculatorTip\CalculatorTip\bin\Debug\CalculatorTip.pdb
+c:\users\dvir\documents\visual studio 2013\Projects\CalculatorTip\CalculatorTip\obj\Debug\CalculatorTip.csprojResolveAssemblyReference.cache
+c:\users\dvir\documents\visual studio 2013\Projects\CalculatorTip\CalculatorTip\obj\Debug\CalculatorTip.Form1.resources
+c:\users\dvir\documents\visual studio 2013\Projects\CalculatorTip\CalculatorTip\obj\Debug\CalculatorTip.Properties.Resources.resources
+c:\users\dvir\documents\visual studio 2013\Projects\CalculatorTip\CalculatorTip\obj\Debug\CalculatorTip.csproj.GenerateResource.Cache
+c:\users\dvir\documents\visual studio 2013\Projects\CalculatorTip\CalculatorTip\obj\Debug\CalculatorTip.exe
+c:\users\dvir\documents\visual studio 2013\Projects\CalculatorTip\CalculatorTip\obj\Debug\CalculatorTip.pdb
